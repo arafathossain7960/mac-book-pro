@@ -1,0 +1,22 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+.image{
+display: flex;
+justify-content: center;
+}
+
+.total-price, .semi-total{
+    display: flex;
+    justify-content:space-between;
+}
+.underline{
+    background-color:black;
+    padding: 2px 0;
+}
+.btn:focus{
+    background-color:purple;
+    color:yellow;
+
+}
