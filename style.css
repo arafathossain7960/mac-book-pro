@@ -11,6 +11,7 @@ justify-content: center;
     display: flex;
     justify-content:space-between;
 }
+
 .underline{
     background-color:black;
     padding: 2px 0;
@@ -18,5 +19,4 @@ justify-content: center;
 .btn:focus{
     background-color:purple;
     color:yellow;
-
 }
